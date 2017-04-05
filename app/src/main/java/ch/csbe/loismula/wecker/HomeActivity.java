@@ -8,7 +8,10 @@ import android.widget.Button;
 
 /**
  * Created by lois.mula on 30.03.2017.
+ * HomeActivity öffnet die activity_home als erstes in der App
  */
+
+
 
 public class HomeActivity extends AppCompatActivity {
 
